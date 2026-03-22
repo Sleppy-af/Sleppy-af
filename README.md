@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/kj6c0y0G1-kAAAAd/sasaki-and-miyano.gif" alt="Banner" style="width:100%; max-height:260px; object-fit:cover;" />
+  <img src="https://media.tenor.com/a-xRlJSS3JMAAAAj/hello-mafumafu.gif" alt="Banner" style="width:100%; max-height:260px; object-fit:cover;" />
 </div>
 
 <h1 align="center">Hi, I'm Sleppy 👋</h1>
