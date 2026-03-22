@@ -11,9 +11,9 @@
   </a>
 </p>
 
-🔭 Currently building: <b>Secret ;3</b>
-🌱 Learning: <b>Kicad</b>
-❓ Ask me about: overall tech, single board PC's, keyboards
+<p>🔭 Currently building: <b>Secret ;3</b></p>
+<p>🌱 Learning: <b>Kicad</b></p>
+<p>❓ Ask me about: overall tech, single board PC's, keyboards</p>
 
 <h3>Connect with me</h3>
 <p>
